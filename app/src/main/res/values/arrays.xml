@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Telefonia">
+        <item>Movistar</item>
+        <item>Telcel</item>
+        <item>Iusacell</item>
+        <item>ATyT</item>
+        <item>Unefon</item>
+        <item>Nextel</item>
+        <item>Virgin</item>
+        <item>Weex</item>
+        <item>Cierto</item>
+        <item>MasRecarga</item>
+        <item>OUI</item>
+        <item>Tuenti</item>
+    </string-array>
+    <string-array name="Cines">
+        <item>Cinepolis</item>
+        <item>Cinemex</item>
+    </string-array>
+    <string-array name="OperadorTag">
+        <item>Pase</item>
+        <item>Televia</item>
+        <item>ViaPass</item>
+    </string-array>
+
+    <string-array name="Luz">
+        <item>CFE</item>
+    </string-array>
+
+    <string-array name="Telefono">
+        <item>Telmex</item>
+        <item>Izzi</item>
+        <item>Totalplay</item>
+        <item>Maxcom</item>
+        <item>Axtel</item>
+        <item>Telnor</item>
+    </string-array>
+
+    <string-array name="TV">
+        <item>Sky</item>
+        <item>Dish</item>
+        <item>Izzi</item>
+        <item>Megacable</item>
+        <item>Totalplay</item>
+        <item>Maxcom</item>
+        <item>Cablevision</item>
+        <item>Cablemax</item>
+        <item>Blue Telecomm</item>
+        <item>CablevisionSaltillo</item>
+        <item>VeTV</item>
+    </string-array>
+
+
+    <string-array name="planCel">
+        <item>ATyT</item>
+        <item>Iusacell</item>
+        <item>Unefon</item>
+        <item>Nextel</item>
+        <item>Movistar</item>
+        <item>Telcel</item>
+    </string-array>
+
+
+    <string-array name="Agus">
+        <item>SACMEX</item>
+        <item>SIAPA</item>
+        <item>AyDM</item>
+        <item>CESPT</item>
+        <item>CEA</item>
+        <item>JMAS</item>
+        <item>JUMAPA</item>
+        <item>Aguakan</item>
+        <item>JAD</item>
+        <item>AMDurango</item>
+        <item>AguaSaltillo</item>
+        <item>INTERAPAS</item>
+        <item>CMAPAS</item>
+        <item>COMAPA</item>
+        <item>SEAPAL</item>
+    </string-array>
+
+    <string-array name="Gas">
+        <item>GasNatural</item>
+    </string-array>
+
+    <string-array name="Infonavit">
+        <item>Infonavit</item>
+    </string-array>
+
+
+    <string-array name="Diversion">
+        <item>Applebee</item>
+        <item>Bass Pro Shops</item>
+        <item>Blim</item>
+        <item>FOX</item>
+        <item>GameStop</item>
+        <item>NIKE Global Orange</item>
+        <item>Nintendo</item>
+        <item>PlayStation</item>
+        <item>XBox Live Gold</item>
+    </string-array>
+</resources>
